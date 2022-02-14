@@ -1,0 +1,40 @@
+<html><head><title>Scheme Bibliography: Julia Lawall</title><style type="text/css">a:link {
+color: #ff0000;
+}
+a:visited {
+color: #cc6666;
+}
+a:active {
+color: #996666;
+}
+body {
+font-family: times, times-roman, serif;
+color: #993300;
+font-size: 11pt;
+background-color: #fff8dc;
+margin-left: 5pt;
+margin-right: 36pt;
+}
+.pagecounter {
+visibility: hidden;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 24pt;
+color: #993300;
+}
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 14pt;
+font-style: italic;
+color: #993300;
+}
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12pt;
+color: #993300;
+}
+</style></head><body bgcolor="white"><table width="100%"><tr valign="top"><td width="124"><table width="124"><tr width="124" height="45"><td width="124" height="45"><a href="http://readscheme.org"><img width="124" height="45" border="0" alt="Readscheme.org" src="../nav-logo.gif" /></a></td></tr><tr width="124" height="124"><td width="124" height="124"><a href="../index.html" target="_top"><img width="124" height="124" border="0" alt="Scheme Bibliography Home" src="../nav_mainlogo.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page1.html" target="_top"><img width="124" height="30" border="0" alt="Classics" src="../nav_classics.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page2.html" target="_top"><img width="124" height="18" border="0" alt="Semantics" src="../nav_sem.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page3.html" target="_top"><img width="124" height="18" border="0" alt="Macros" src="../nav_macros.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page4.html" target="_top"><img width="124" height="18" border="0" alt="Objects" src="../nav_objects.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page5.html" target="_top"><img width="124" height="30" border="0" alt="Modules" src="../nav_modules.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page6.html" target="_top"><img width="124" height="18" border="0" alt="Continuations" src="../nav_cps.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../pagexml.html" target="_top"><img width="124" height="30" border="0" alt="Web Programming" src="../nav_xml.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page7.html" target="_top"><img width="124" height="18" border="0" alt="Applications" src="../nav_appl.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page8.html" target="_top"><img width="124" height="18" border="0" alt="Implementation" src="../nav_impl.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page9.html" target="_top"><img width="124" height="30" border="0" alt="Concurrent Programming" src="../nav_conc.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page10.html" target="_top"><img width="124" height="30" border="0" alt="Partial Evaluation" src="../nav_pe.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page11.html" target="_top"><img width="124" height="18" border="0" alt="Reflection" src="../nav_reflect.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../whats_new.html" target="_top"><img width="124" height="30" border="0" alt="Recent Additions" src="../nav_recent.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../browse.html" target="_top"><img width="124" height="30" border="0" alt="Browse by Author" src="../nav_browse.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../search.html" target="_top"><img width="124" height="18" border="0" alt="Search..." src="../nav_search.gif" /></a></td></tr></table><td width="20"><img width="20" height="1" border="0" src="../dot_clear.gif" /></td><td><a name="Search..." /><h2>Julia Lawall</h2><ul><li>Bernd Grobauer and Julia L. Lawall. "Partial Evaluation of Pattern Matching in Strings, revisited". BRICS report RS-00-31. September 2001. Available online:  <a href="http://www.diku.dk/users/julia/BRICS-RS-00-31.ps.gz">ps</a> <a href="http://www.diku.dk/users/julia/BRICS-RS-00-31.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Lawall-Gro01">Citation</a>.</li><li>Julia L. Lawall and Olivier Danvy. "Continuation-Based Partial Evaluation". Computer Science Department, Brandeis University. Technical Report CS-95-178. February 1995. Available online:  <a href="http://www.diku.dk/users/julia/lawall-danvy-lfp94-extended.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=PE-Law-95">Citation</a>.</li><li>Olivier Danvy and Julia L. Lawall. "Back to direct style II: First-class continuations". Computer Science Department, Brandeis University. Technical Report CS-95-179. February 1995. Available online:  <a href="http://www.diku.dk/users/julia/danvy-lawall-lfp92-extended.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=PE-Dan-95">Citation</a>.</li><li>Julia L. Lawall. "Continuation Introduction and Elimination in Higher-Order Programming Languages". PhD. Thesis. Indiana University, Computer Science Department. July 1994.  <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Lawall-thesis">Citation</a>.</li><li>Julia L. Lawall and Olivier Danvy. "Continuation-Based Partial Evaluation". <em>1994 ACM Conference on Lisp and Functional Programming</em>. 1994. Available online:  <a href="http://www.diku.dk/users/julia/lawall-danvy-lfp94.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=PE-Law-94">Citation</a>.</li><li>Julia L. Lawall and Olivier Danvy. "Separating Stages in the Continuation-Passing Style Transformation". <em>Proceedings of POPL93, the 1993 ACM Symposium on Principles of Programming Languages</em>. 1993. Available online:  <a href="http://www.diku.dk/users/julia/lawall-danvy-popl93.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=PE-Law-93">Citation</a>.</li><li>Julia L. Lawall. "Proofs by structural induction using partial evaluation". <em>Proceedings of the ACM SIGPLAN symposium on Partial evaluation and semantics-based program manipulation (PEPM'93)</em>. 1993. Available online:  <a href="http://portal.acm.org/citation.cfm?id=154646&dl=ACM&coll=portal">ACM Digital Library</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Lawall-Proofs93">Citation</a>.</li><li>Julia L. Lawall and Daniel P. Friedman. "Toward Leakage Containment". Computer Science Department, Indiana University. February 1992. Available online:  <a href="ftp://ftp.cs.indiana.edu/pub/scheme-repository/doc/pubs/iucstr346.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=IU-SR-Law-92">Citation</a>.</li><li>Olivier Danvy and Julia L. Lawall. "Back to direct style II: First-class continuations". <em>1992 ACM Conference on Lisp and Functional Programming</em>. 1992. Available online:  <a href="http://www.diku.dk/users/julia/danvy-lawall-lfp92.ps.gz">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=PE-Dan-92">Citation</a>.</li><li>Julia L. Lawall and Daniel P. Friedman. "Embedding the Self Language in Scheme". <em>BIGRE Bulletin</em>. 65. July 1989.  <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry118">Citation</a>.</li></ul></td></td></tr></table></body></html>

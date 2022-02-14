@@ -1,0 +1,40 @@
+<html><head><title>Scheme Bibliography: Uwe Pleban</title><style type="text/css">a:link {
+color: #ff0000;
+}
+a:visited {
+color: #cc6666;
+}
+a:active {
+color: #996666;
+}
+body {
+font-family: times, times-roman, serif;
+color: #993300;
+font-size: 11pt;
+background-color: #fff8dc;
+margin-left: 5pt;
+margin-right: 36pt;
+}
+.pagecounter {
+visibility: hidden;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 24pt;
+color: #993300;
+}
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 14pt;
+font-style: italic;
+color: #993300;
+}
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12pt;
+color: #993300;
+}
+</style></head><body bgcolor="white"><table width="100%"><tr valign="top"><td width="124"><table width="124"><tr width="124" height="45"><td width="124" height="45"><a href="http://readscheme.org"><img width="124" height="45" border="0" alt="Readscheme.org" src="../nav-logo.gif" /></a></td></tr><tr width="124" height="124"><td width="124" height="124"><a href="../index.html" target="_top"><img width="124" height="124" border="0" alt="Scheme Bibliography Home" src="../nav_mainlogo.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page1.html" target="_top"><img width="124" height="30" border="0" alt="Classics" src="../nav_classics.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page2.html" target="_top"><img width="124" height="18" border="0" alt="Semantics" src="../nav_sem.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page3.html" target="_top"><img width="124" height="18" border="0" alt="Macros" src="../nav_macros.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page4.html" target="_top"><img width="124" height="18" border="0" alt="Objects" src="../nav_objects.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page5.html" target="_top"><img width="124" height="30" border="0" alt="Modules" src="../nav_modules.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page6.html" target="_top"><img width="124" height="18" border="0" alt="Continuations" src="../nav_cps.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../pagexml.html" target="_top"><img width="124" height="30" border="0" alt="Web Programming" src="../nav_xml.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page7.html" target="_top"><img width="124" height="18" border="0" alt="Applications" src="../nav_appl.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page8.html" target="_top"><img width="124" height="18" border="0" alt="Implementation" src="../nav_impl.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page9.html" target="_top"><img width="124" height="30" border="0" alt="Concurrent Programming" src="../nav_conc.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page10.html" target="_top"><img width="124" height="30" border="0" alt="Partial Evaluation" src="../nav_pe.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page11.html" target="_top"><img width="124" height="18" border="0" alt="Reflection" src="../nav_reflect.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../whats_new.html" target="_top"><img width="124" height="30" border="0" alt="Recent Additions" src="../nav_recent.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../browse.html" target="_top"><img width="124" height="30" border="0" alt="Browse by Author" src="../nav_browse.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../search.html" target="_top"><img width="124" height="18" border="0" alt="Search..." src="../nav_search.gif" /></a></td></tr></table><td width="20"><img width="20" height="1" border="0" src="../dot_clear.gif" /></td><td><a name="Search..." /><h2>Uwe Pleban</h2><ul><li>Uwe F. Pleban. "Compilation Issues in the Screme Implementation for the 88000". <em>Topics in Advanced Language Implementation</em>. 1991.  <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry151">Citation</a>.</li><li>Steven R. Vegdahl and Uwe F. Pleban. "The Runtime Environment for Screme, a Scheme Implementation on the 88000". <em>Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems</em>. April 1989. Available online:  <a href="http://portal.acm.org/citation.cfm?id=68199&coll=portal&dl=ACM">ACM Digital Library</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry108">Citation</a>.</li><li>Peter Lee and Uwe F. Pleban. "On the use of LISP in implementing denotational semantics". <em>Proceedings of the 1986 ACM conference on LISP and functional programming</em>. 1986. Available online:  <a href="http://portal.acm.org/citation.cfm?id=319866&coll=portal&dl=ACM">ACM Digital Library</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=LeePleban86">Citation</a>.</li><li>Steven S. Muchnick and Uwe F. Pleban. "A Semantic Comparison of Lisp and Scheme". <em>Conference Record of the 1980 Lisp Conference</em>. 1980. Available online:  <a href="http://portal.acm.org/citation.cfm?id=802790&coll=portal&dl=ACM">ACM Digital Library</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry17">Citation</a>.</li><li>Uwe F. Pleban. "A Denotational Approach to Flow Analysis and Optimization of SCHEME, A Dialect of LISP". PhD. Thesis. Ph.D. Dissertation. 1980.  <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry18">Citation</a>.</li><li>Uwe F. Pleban. "The Standard Semantics of a Subset of SCHEME, a Dialect of LISP". University of Kansas. Computer Science Technical Report TR-79-3. July 1979.  <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oz-entry13">Citation</a>.</li></ul></td></td></tr></table></body></html>

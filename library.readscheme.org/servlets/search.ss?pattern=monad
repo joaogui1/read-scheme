@@ -1,0 +1,40 @@
+<html><head><title>Scheme Bibliography: Search Results...</title><style type="text/css">a:link {
+color: #ff0000;
+}
+a:visited {
+color: #cc6666;
+}
+a:active {
+color: #996666;
+}
+body {
+font-family: times, times-roman, serif;
+color: #993300;
+font-size: 11pt;
+background-color: #fff8dc;
+margin-left: 5pt;
+margin-right: 36pt;
+}
+.pagecounter {
+visibility: hidden;
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 24pt;
+color: #993300;
+}
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 14pt;
+font-style: italic;
+color: #993300;
+}
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12pt;
+color: #993300;
+}
+</style></head><body bgcolor="white"><table width="100%"><tr valign="top"><td width="124"><table width="124"><tr width="124" height="45"><td width="124" height="45"><a href="http://readscheme.org"><img width="124" height="45" border="0" alt="Readscheme.org" src="../nav-logo.gif" /></a></td></tr><tr width="124" height="124"><td width="124" height="124"><a href="../index.html" target="_top"><img width="124" height="124" border="0" alt="Scheme Bibliography Home" src="../nav_mainlogo.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page1.html" target="_top"><img width="124" height="30" border="0" alt="Classics" src="../nav_classics.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page2.html" target="_top"><img width="124" height="18" border="0" alt="Semantics" src="../nav_sem.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page3.html" target="_top"><img width="124" height="18" border="0" alt="Macros" src="../nav_macros.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page4.html" target="_top"><img width="124" height="18" border="0" alt="Objects" src="../nav_objects.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page5.html" target="_top"><img width="124" height="30" border="0" alt="Modules" src="../nav_modules.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page6.html" target="_top"><img width="124" height="18" border="0" alt="Continuations" src="../nav_cps.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../pagexml.html" target="_top"><img width="124" height="30" border="0" alt="Web Programming" src="../nav_xml.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page7.html" target="_top"><img width="124" height="18" border="0" alt="Applications" src="../nav_appl.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page8.html" target="_top"><img width="124" height="18" border="0" alt="Implementation" src="../nav_impl.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page9.html" target="_top"><img width="124" height="30" border="0" alt="Concurrent Programming" src="../nav_conc.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../page10.html" target="_top"><img width="124" height="30" border="0" alt="Partial Evaluation" src="../nav_pe.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../page11.html" target="_top"><img width="124" height="18" border="0" alt="Reflection" src="../nav_reflect.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../whats_new.html" target="_top"><img width="124" height="30" border="0" alt="Recent Additions" src="../nav_recent.gif" /></a></td></tr><tr width="124" height="30"><td width="124" height="30"><a href="../browse.html" target="_top"><img width="124" height="30" border="0" alt="Browse by Author" src="../nav_browse.gif" /></a></td></tr><tr width="124" height="18"><td width="124" height="18"><a href="../search.html" target="_top"><img width="124" height="18" border="0" alt="Search..." src="../nav_search.gif" /></a></td></tr></table><td width="20"><img width="20" height="1" border="0" src="../dot_clear.gif" /></td><td><a name="Search..." /><h2>Search Results...</h2><ul><li>Jonathan Sobel, Erik Hilsdale, R. Kent Dybvig, Daniel P. Friedman. "Abstraction and Performance from Explicit Monadic Reflection". <em>2005 Workshop on Scheme and Functional Programming</em>. September 2005. Available online:  <a href="http://repository.readscheme.org/ftp/papers/sw2005/sobel.ps.gz">ps</a> <a href="http://repository.readscheme.org/ftp/papers/sw2005/sobel.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=sw2005-Sobel">Abstract and citation</a>.</li><li>Oleg Kiselyov. "Monadic Programming in Scheme". January 2002. Available online:  <a href="http://pobox.com/~oleg/ftp/Scheme/monad-in-Scheme.html">html</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Oleg-Oleg2002b">Citation</a>.</li><li>Daniel P. Friedman. "From Direct Style to Monadic Style through Continuation-Passing Style". 2002. Available online:  <a href="http://www.cs.indiana.edu/l/www/classes/b621/rember.ps">ps</a> <a href="http://www.cs.indiana.edu/l/www/classes/b621/rember.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Friedman-MonadCPS02">Citation</a>.</li><li>Daniel P. Friedman. "Direct Style from Monadic Style and Back". 2002. Available online:  <a href="http://www.cs.indiana.edu/l/www/classes/b621/traverseS.ps">ps</a> <a href="http://www.cs.indiana.edu/l/www/classes/b621/traverseS.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Friedman-MonadSt02">Citation</a>.</li><li>Steven E. Ganz and Daniel P. Friedman. "A Modular Monadic Interpreter In Scheme With Objects". Indiana University Computer Science Department. Technical Report #548. October 2000. Available online:  <a href="http://www.cs.indiana.edu/hyplan/sganz/publications/sfp00/paper.ps">ps</a> <a href="http://www.cs.indiana.edu/hyplan/sganz/publications/sfp00/paper.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Ganz-00">Citation</a>.</li><li>David Espinosa. "Building Interpreters by Transforming Stratified Monads". Department of Computer Science, Columbia University. April 1994. Available online:  <a href="http://www.swiss.ai.mit.edu/~dae/papers/sm.ps.Z">ps</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Esp-94b">Citation</a>.</li><li>Olivier Danvy, Juergen Koslowski and Karoline Malmkjær. "Compiling Monads". Kansas State University. CIS-92-3. December 1991. Available online:  <a href="http://repository.readscheme.org/ftp/papers/topps/D-154.ps.gz">ps</a> <a href="http://repository.readscheme.org/ftp/papers/topps/D-154.pdf">pdf</a>. <a href="http://library.readscheme.org/servlets/cite.ss?pattern=Danvy-Monads91">Citation</a>.</li></ul></td></td></tr></table></body></html>
